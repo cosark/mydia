@@ -60,6 +60,10 @@ docker compose up -d
 
 Open http://localhost:4000 and create your admin account.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Mydia/)
+
 ## Features
 
 - **Unified Media Management** - Movies + TV shows with TMDB/TVDB metadata
